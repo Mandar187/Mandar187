@@ -57,4 +57,4 @@
 
 ---
 
-<p align="center">⚡ Powered by Chaos | Coded by Mandar | Backed by Chaas ☕</p>
+<p align="center">⚡ Powered by Chaos | Coded by Mandar | Backed by Chaas 🥛</p>
