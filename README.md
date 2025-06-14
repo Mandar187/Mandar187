@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ I Work With:
-`Unreal Engine` `C++` `After Effects` `Photoshop` `Audition` `Git` `Blender` `Premier Pro`        
+`Unreal Engine` `C++` `After Effects` `Photoshop` `Audition` `Git` `Blender` `Premier Pro` `Maya`      
 `Dark Vibes` `Creative Madness` `Gujarati Swag` `Prompt engineering` `Stories` `teamwork`
 
 ---
