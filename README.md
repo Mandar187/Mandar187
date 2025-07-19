@@ -20,7 +20,7 @@
 ---
 
 ### 🎮 Current Experiments:
-- A GTA-style game set in Gujarat 🇮🇳  
+- Top down RPG Battlefield    
 - Horror game starring an evil principal named Jatin 💀  
 - A post-apocalyptic football-with-guns car game 🚗⚽🔫  
 - Making chaos beautiful, one pixel at a time 🎨
